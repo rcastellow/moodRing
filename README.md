@@ -1,4 +1,4 @@
-Mood Ring - A project that allows a client to search Twitter feeds by keyword and location using Spring Integration. This application was inspired by wanting to keep track of moods and events being posted to Twitter feeds in the middle east during the protests in Egypt in the Spring of 2012.
+Mood Ring - A project that allows a client to search Twitter feeds by keyword and location using Spring Integration. This application was inspired by the moods and events being posted to Twitter feeds in the middle east during the protests in Egypt in the Spring of 2011.
 ================================================================================
 
 To begin run the following maven commands.
