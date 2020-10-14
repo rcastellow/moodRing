@@ -19,7 +19,7 @@
 		<spring.integration.version>2.1.2.RELEASE</spring.integration.version>
 		<org.springframework.social-twitter-version>1.0.2.RELEASE</org.springframework.social-twitter-version>
 		<log4j.version>1.2.16</log4j.version>
-		<junit.version>4.10</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<repositories>
